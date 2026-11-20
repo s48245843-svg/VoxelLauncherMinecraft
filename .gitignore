@@ -1,0 +1,13 @@
+node_modules/
+.next/
+.env
+.env.local
+data/
+*.log
+!.env.example
+__pycache__/
+*.pyc
+desktop/.venv/
+desktop/build/
+desktop/dist/
+*.spec
