@@ -1,6 +1,6 @@
 # Voxel Launcher
 
-Minecraft Java-лаунчер на Next.js App Router, PostgreSQL и Drizzle ORM.
+Minecraft Java-лаунчер на Python,Qt.
 
 ## Возможности
 
